@@ -1,0 +1,22 @@
+.container {
+    background-color: green;
+    width: 1140;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blog-post {
+    background-color: blue;
+    width: 65%;
+    float: left;
+}
+
+.sidebar {
+    background-color:brown;
+    width: 25%;
+    float: left;
+}
+.profile-post {
+    background-color: yellow;
+    width: 25%;
+    float: left;
+}
